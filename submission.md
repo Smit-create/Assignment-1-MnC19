@@ -8,6 +8,12 @@ You need to make a Pull Request to the originel repository to submit the assignm
    use the following commands in your terminal/cmd (wherever you think git --version would work)
    * `cd` to your repository beware it's the upper folder Assignment-1-MnC19 and not inside it
    * set upstream repository by doing `git remote add upstream https://github.com/Smit-create/Assignment-1-MnC19.git`
+   * [optional] To rebase your repo you can optionally do 
+   
+      `git fetch upstream` 
+      
+      `git rebase upstream/master`
+   
    #### After doing the assignment and having all the output files you will be commiting them.
    * do `git add .`
    * then `git commit -m "any message you feel like giving to the coomit" `
