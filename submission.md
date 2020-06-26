@@ -16,7 +16,7 @@ You need to make a Pull Request to the originel repository to submit the assignm
    
    #### After doing the assignment and having all the output files you will be commiting them.
    * do `git add .`
-   * then `git commit -m "any message you feel like giving to the coomit" `
+   * then `git commit -m "any message you feel like giving to the commit" `
    * then simply do `git push` and provide any creds if required
    
 * Part 2 creating a PR from your repo to original repo
