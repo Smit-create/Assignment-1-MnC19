@@ -5,7 +5,7 @@ You need to make a Pull Request to the original repository to submit the assignm
 ### Follow the following steps to create a Pull Request.
 
 * part 1 pushing the repo to your github
-   use the following commands in your terminal/cmd (wherever you think git --version would work)
+   use the following commands in your terminal/cmd (wherever you think `git --version` would work)
    * `cd` to your repository beware it's the upper folder Assignment-1-MnC19 and not inside it
    * set upstream repository by doing `git remote add upstream https://github.com/Smit-create/Assignment-1-MnC19.git`
    * [optional] To rebase your repo you can optionally do 
