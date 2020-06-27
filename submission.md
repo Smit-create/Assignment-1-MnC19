@@ -1,6 +1,6 @@
 # General Submission Guidelines
 
-You need to make a Pull Request to the originel repository to submit the assignment.
+You need to make a Pull Request to the original repository to submit the assignment.
 
 ### Follow the following steps to create a Pull Request.
 
