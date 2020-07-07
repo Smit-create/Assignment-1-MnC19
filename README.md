@@ -1,6 +1,8 @@
-# Assignment-1-MnC19
+# Assignments for MnC19
 
-Assignment 1- On Basic Python.
+## Contains
+### 1. Assignment 1- On Basic Python.
+### 2. Assignment 2- On Numpy and Pandas.
 
 For downloading the Assignment, follow the instructions given below:
 
